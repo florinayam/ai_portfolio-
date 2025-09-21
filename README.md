@@ -23,6 +23,52 @@ It also prints **Hello World** multiple times.
 - Using loops (`for`)  
 - Organizing code like a small application  
 
+### 💻 Example Run 
+
+-------------------------------------------
+# 🧮 Advanced Python Calculator
+
+This is a simple command-line calculator written in Python.  
+It supports basic arithmetic operations and some advanced features like powers, square roots, and calculation history.
+
 ---
 
-## ✅ Example Output
+## ✨ Features
+- Addition ➕  
+- Subtraction ➖  
+- Multiplication ✖️  
+- Division ➗ (with zero-check)  
+- Power (x^y)  
+- Square Root (√x)  
+- History of past calculations 📜  
+
+### 💻 Example Run
+---
+# 🐍 My Python Projects
+
+This repository contains my beginner Python projects.  
+I started with a simple greeting program and then built a more advanced calculator.  
+
+## 1️⃣ Greeting Program
+
+This was my very first Python project.  
+It simply prints a greeting message to the user.  
+
+### 💻 Example Run
+
+## 2️⃣ Advanced Python Calculator
+
+This is my second project.  
+It performs basic and advanced math operations and keeps a history of results.  
+
+### ✨ Features
+- Addition ➕  
+- Subtraction ➖  
+- Multiplication ✖️  
+- Division ➗ (with zero-check)  
+- Power (x^y)  
+- Square Root (√x)  
+- History of past calculations 📜  
+
+### 💻 Example Run
+
