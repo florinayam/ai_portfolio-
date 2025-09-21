@@ -1,26 +1,30 @@
-# Greeting App 🌟
+# -----------------------------
+#   My First Python Project
+# -----------------------------
 
-This is my first Python project.  
-The program greets a user by name, shows their age, and gives a motivational message.  
-It also prints **Hello World** multiple times.  
+# User details (change these values if you want)
+name = "Yasmin"
+age = 18
+s = 5   # how many times to print Hello World
 
----
+# Title
+print("===================================")
+print("   🌟 Welcome to the Greeting App 🌟")
+print("===================================\n")
 
-## 🚀 Features
-- Welcomes the user with their name and age  
-- Prints a motivational message depending on the age  
-- Repeats “Hello World” as many times as you set  
-- Clean design with separators and emojis for fun  
+# Greeting section
+print("Hello, " + name + "! You are " + str(age) + " years old.")
 
----
+# Motivational message
+if age < 18:
+    print("✨ You are still young and have a bright future ahead! 🚀")
+else:
+    print("💪 You are an adult, keep working hard on your goals!")
 
-## 📘 Skills Learned
-- Using variables in Python  
-- Printing text to the screen  
-- Using `if/else` conditions  
-- Using loops (`for`)  
-- Organizing code like a small application  
+print("\n--- Printing Hello World ---")
+for i in range(s):
+    print("Hello World " + str(i + 1))
 
----
-
-## ✅ small output 
+print("\n===================================")
+print("        🎉 End of the App 🎉       ")
+print("===================================")
