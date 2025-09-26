@@ -22,3 +22,11 @@ This repository contains my small projects as I practice and grow my programming
 - Problem solving through small projects  
 - Using GitHub to organize and share my work
 
+
+#### projects
+
+###  Calculator ➕➖✖️➗
+- A simple calculator built with Python.  
+- Supports addition, subtraction, multiplication, and division.  
+- [Source Code](./calculator.py)
+
